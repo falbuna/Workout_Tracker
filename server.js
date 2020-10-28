@@ -19,6 +19,9 @@ mongoose.connect("mongodb://localhost/workout", {
   useCreateIndex: true
 });
 
+require("./routes/html-routes.js")(app);
+require("./routes/api-routes.js")(app);
+
 app.listen(PORT, () => {
     console.log(`App running on port ${PORT}!`);
 });
