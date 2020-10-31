@@ -23,11 +23,11 @@ When the user first visits the deployed application, they will see the stats for
 
 ![Main page for the workout tracker application.](https://github.com/falbuna/Workout_Tracker/blob/main/assets/1_IndexPage.png)
 
-When the user selects "New Workout" or "Continue Workout", they will be sent to a new page that will allow the user to select the type of exercise to enter; Cardio or Resistance. If the user selects Resistance, they will be required to enter the name of the exercise, weight, sets, reps, and duration. After the fields have been entered, the user can select complete to go back to the index page, or add exercise to add another exercise to the workout.
+When the user selects "New Workout" or "Continue Workout", they will be sent to a new page that will allow the user to select the type of exercise to enter; Cardio or Resistance. If the user selects Resistance, they will be required to enter the name of the exercise, weight, sets, reps, and duration. After the fields have been entered, the user can select "Complete" which will send the user back to the index page and display the entered workout as the last workout, or "Add Exercise" to add another exercise to the workout.
 
 ![Adding a resistance exercise.](https://github.com/falbuna/Workout_Tracker/blob/main/assets/2_Resistance.png)
 
-If user selects Cardio, they will be required to enter the name of the exercise, the distance, and the duration. After the fields have been entered, the user can select complete to go back to the index page, or add exercise to add another exercise to the workout.
+If user selects Cardio, they will be required to enter the name of the exercise, the distance, and the duration. After the fields have been entered, the user can select "Complete" which will send the user back to the index page and display the entered workout as the last workout, or "Add Exercise" to add another exercise to the workout.
 
 ![Adding a cardio exercise.](https://github.com/falbuna/Workout_Tracker/blob/main/assets/3_Cardio.png)
 
